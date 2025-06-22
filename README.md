@@ -46,5 +46,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Akshatjain164/Akshatjain164/output/pacman-contribution-graph.svg">
 </picture>
 
+<img src="https://raw.githubusercontent.com/Akshatjain164/Akshatjain164/output/snake.svg" alt="Snake animation" />
+
+###
 
 
